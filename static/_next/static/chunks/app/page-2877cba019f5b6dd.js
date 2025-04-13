@@ -70,10 +70,10 @@ children:"Kayven Delatado"}),(0,s.jsx)("div",{
 children:(0,s.jsxs)("span",{className:"flex justify-center items-center gap-1.5 w-full",
 children:[(0,s.jsx)(n.A,{size:15}),(0,s.jsx)("p",{className:"text-xs md:text-sm",
 children:"Paranaque, Philippines"})]})}),(0,s.jsx)(er,{sentences:["Fullstack Developer.","Web Developer.","Mobile Developer.", "Python Developer.", "JavaScript Developer.", "Laravel Developer.", "C++/C# Developer.", "Automation Expert.", "Linux Administrator.","AI Developer"],typingSpeed:30,deleteSpeed:20,pause:1500}),(0,s.jsxs)("div",{className:"flex gap-2",
-children:[(0,s.jsx)("a",{href:"https://github.com/yvendee",target:"_blank",className:"rounded-full border flex justify-center bg-gray-100 dark:bg-transparent p-2 hover:bg-gray-200 dark:hover:bg-gray-700 cursor-pointer",
-children:(0,s.jsx)(d.A,{size:15})}),(0,s.jsx)("a",{href:"https://ph.linkedin.com/in/kayven-delatado-2b4023246",target:"_blank",className:"rounded-full border flex justify-center bg-gray-100 dark:bg-transparent p-2 hover:bg-gray-200 dark:hover:bg-gray-700 cursor-pointer",
+children:[(0,s.jsx)("a",{href:"https://github.com",target:"_blank",className:"rounded-full border flex justify-center bg-gray-100 dark:bg-transparent p-2 hover:bg-gray-200 dark:hover:bg-gray-700 cursor-pointer",
+children:(0,s.jsx)(d.A,{size:15})}),(0,s.jsx)("a",{href:"https://ph.linkedin.com/",target:"_blank",className:"rounded-full border flex justify-center bg-gray-100 dark:bg-transparent p-2 hover:bg-gray-200 dark:hover:bg-gray-700 cursor-pointer",
 children:(0,s.jsx)(c.A,{size:15})}),(0,s.jsx)("a",{href:"https://www.facebook.com/",target:"_blank",className:"rounded-full border  flex justify-center bg-gray-100 dark:bg-transparent p-2 hover:bg-gray-200 dark:hover:bg-gray-700 cursor-pointer",
-children:(0,s.jsx)(o.A,{size:15})}),(0,s.jsxs)("a",{href:"mailto:yvendee2020@gmail.com",target:"_blank",className:"rounded-md border  dark:border-gray-600 p-1  dark:hover:bg-gray-700 cursor-pointer flex place-items-center gap-1 px-2",
+children:(0,s.jsx)(o.A,{size:15})}),(0,s.jsxs)("a",{href:"mailto:",target:"_blank",className:"rounded-md border  dark:border-gray-600 p-1  dark:hover:bg-gray-700 cursor-pointer flex place-items-center gap-1 px-2",
 children:[(0,s.jsx)(h.A,{size:15,strokeWidth:1}),(0,s.jsx)("p",{className:"text-[10px] md:text-sm text-nowrap",
 children:"Send Email"})]})]})]})]})}),(0,s.jsx)("section",{
 children:(0,s.jsxs)("div",{className:"flex flex-col  gap-2",
@@ -99,10 +99,10 @@ children:[(0,s.jsx)(b.A,{size:20,strokeWidth:1}),(0,s.jsx)("p",{className:"text-
 children:"Tech Stack"})]}),(0,s.jsx)(L,{})]})})})]}),(0,s.jsxs)("footer",{className:"max-w-2xl mx-auto py-4 mt-16 px-4 border-t text-sm flex flex-col sm:flex-row items-center justify-between text-gray-700 dark:text-gray-300",
 children:[(0,s.jsx)("p",{className:"font-medium",
 children:"\xa9 2025 Kayven Delatado"}),(0,s.jsxs)("div",{className:"flex gap-3 mt-3 sm:mt-0",
-children:[(0,s.jsx)("a",{href:"https://github.com/yvendee",target:"_blank",className:"rounded-full border border-gray-300 dark:border-gray-600 flex items-center justify-center p-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition",
-children:(0,s.jsx)(d.A,{size:18})}),(0,s.jsx)("a",{href:"https://ph.linkedin.com/in/kayven-delatado-2b4023246",target:"_blank",className:"rounded-full border border-gray-300 dark:border-gray-600 flex items-center justify-center p-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition",
+children:[(0,s.jsx)("a",{href:"https://github.com",target:"_blank",className:"rounded-full border border-gray-300 dark:border-gray-600 flex items-center justify-center p-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition",
+children:(0,s.jsx)(d.A,{size:18})}),(0,s.jsx)("a",{href:"https://ph.linkedin.com/",target:"_blank",className:"rounded-full border border-gray-300 dark:border-gray-600 flex items-center justify-center p-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition",
 children:(0,s.jsx)(c.A,{size:18})}),(0,s.jsx)("a",{href:"https://www.facebook.com/",target:"_blank",className:"rounded-full border border-gray-300 dark:border-gray-600 flex items-center justify-center p-2 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition",
-children:(0,s.jsx)(o.A,{size:18})}),(0,s.jsxs)("a",{href:"mailto:yvendee2020@gmail.com",target:"_blank",className:"flex items-center gap-2 px-3 py-1.5 rounded-md border border-gray-300 dark:border-gray-600 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition",
+children:(0,s.jsx)(o.A,{size:18})}),(0,s.jsxs)("a",{href:"mailto:",target:"_blank",className:"flex items-center gap-2 px-3 py-1.5 rounded-md border border-gray-300 dark:border-gray-600 bg-gray-100 dark:bg-gray-800 hover:bg-gray-200 dark:hover:bg-gray-700 transition",
 children:[(0,s.jsx)(h.A,{size:16,strokeWidth:1.2}),(0,s.jsx)("span",{className:"text-xs sm:text-sm",
 children:"Send Email"})]})]})]})]})}}},e=>{var t=t=>e(e.s=t);e.O(0,[417,487,80,77,358],()=>t(2558)),_N_E=e.O()}]);
 
